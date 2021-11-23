@@ -46,3 +46,9 @@
     padding: 1rem 0rem;
     color: #fff;
 }
+
+/*body*/
+.texto__body{
+    font-size: 1.2rem;
+    color: cadetblue;
+}
