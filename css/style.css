@@ -33,6 +33,10 @@
     padding-bottom: 5rem;
     
 }
+.texto__parrafo2{
+    font-size: 1.5rem;
+    color: rgb(54, 85, 23);
+}
 /*footer*/
 .footer__texto{
     text-align: center;
