@@ -38,3 +38,11 @@
     padding-bottom: 5rem;
     
 }
+/*footer*/
+.footer__texto{
+    text-align: center;
+    background: #333;
+    font-size: 2rem;
+    padding: 1rem 0rem;
+    color: #fff;
+}
