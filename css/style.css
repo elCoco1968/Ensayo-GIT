@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-.container{
+.cabecera{
     width: 80%;
     height: auto;
     margin: 0  auto;
@@ -18,6 +18,11 @@
 .titulo__texto{
     color: #fff;
     font-size: 1.5rem;
+}
+.titulo__cabecera{
+    font-size: 2rem;
+    color: blanchedalmond;
+
 }
 .texto{
     width: 100%;
